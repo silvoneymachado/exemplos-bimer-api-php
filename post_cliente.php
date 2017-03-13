@@ -27,7 +27,7 @@ curl_setopt_array($curl, array(
                         '      "Observacao": "11020258",' .
                         '      "PessoasContato": [' .
                         '        {' .
-                                  '"ContatoPrincipal": true,' .
+                        '          "ContatoPrincipal": true,' .
                         '          "Email": "email@globo.com",' .
                         '          "Identificador": "",' .
                         '          "Nome": "Pessoa de contato inserida pela API",' .
