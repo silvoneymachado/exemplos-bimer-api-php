@@ -59,10 +59,9 @@ curl_setopt_array($curl, array(
                         '  "NomeCurto": "Nome Curto"' .
                         '}',
   CURLOPT_HTTPHEADER => array(
-    "authorization: bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiVXNlciIsInVzZXI6aWQiOiIwMDEwMDAwM1ZWIiwidXNlcjplbWFpbCI6IiIsInVzZXI6dXNlck5hbWUiOiJLQVJPTyIsInVzZXI6Zmlyc3ROYW1lIjoiVXN1w6FyaW8gZG8gS2Fyb28gcGFyYSBjb25zdW1vIGRhIEFQSSBCaW1lciIsInVzZXI6bGFzdE5hbWUiOiIiLCJpc3MiOiJodHRwOi8vMTI3LjAuMC4xLyIsImF1ZCI6IjQxNGUxOTI3YTM4ODRmNjhhYmM3OWY3MjgzODM3ZmQxIiwiZXhwIjoxNDg5NDIwODMxLCJuYmYiOjE0ODk0MTk5MzF9.7rHUSn2Ts3_liXg4ie_ATlCvNjRvNPhjMCJ1xasp_AM",
+    "authorization: bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiVXNlciIsInVzZXI6aWQiOiIwMDEwMDAwM1ZWIiwidXNlcjplbWFpbCI6IiIsInVzZXI6dXNlck5hbWUiOiJLQVJPTyIsInVzZXI6Zmlyc3ROYW1lIjoiVXN1w6FyaW8gZG8gS2Fyb28gcGFyYSBjb25zdW1vIGRhIEFQSSBCaW1lciIsInVzZXI6bGFzdE5hbWUiOiIiLCJpc3MiOiJodHRwOi8vMTI3LjAuMC4xLyIsImF1ZCI6IjQxNGUxOTI3YTM4ODRmNjhhYmM3OWY3MjgzODM3ZmQxIiwiZXhwIjoxNDg5NDIxNzk1LCJuYmYiOjE0ODk0MjA4OTV9.JVBgZgJPsiQo6viC5MTllrPbSqm4Z6ATEnGK4QLcU9Y",
     "cache-control: no-cache",
-    "content-type: application/json",
-    "postman-token: 7feb6ac6-69ce-a9b0-2cc8-be51a92adc73"
+    "content-type: application/json"
   ),
 ));
 
