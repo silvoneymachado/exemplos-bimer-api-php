@@ -15,7 +15,7 @@ curl_setopt_array($curl, array(
                         '  "Identificador": "",' .
                         '  "Enderecos": [' .
                         '    {' .
-                              '"CEP": "22060020",' .
+                        '      "CEP": "22060020",' .
                         '      "CodigoSuframa": "",' .
                         '      "Complemento": "",' .
                         '      "IdentificadorBairro": "00A00001R7",' .
